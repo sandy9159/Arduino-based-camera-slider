@@ -128,7 +128,7 @@ Select components for your PCB from there Parts Library of 200k+ in-stock compon
 they are offering $27 valued New User coupon  & $24 SMT coupons every month
 $8.00 setup fee, and $0.0017  per joint
 
-Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled ready for the project
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
 
 
 👉 Try PCBA service of JLCPCB.com/PCW and save your time and money, get PCB ready for project, 200K+ components in library of JLCPCB.com/PCW as well as 3rd party         parts to choose from. 
