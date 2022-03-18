@@ -188,7 +188,7 @@ This rotary encoder and small OLED screen is helpfull for user interface and to 
 
 # Arduino Code
 
-~~~
+```
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -631,7 +631,7 @@ void loop()
    }  
 }
 
-~~~
+```
 
 ![MVI_0003_1](https://user-images.githubusercontent.com/19898602/125611317-679003d9-5309-4915-94cb-19981a4d3d8b.gif)
 
